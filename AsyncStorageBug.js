@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in React Native and the app crashes without any clear error message in the console.  The issue stems from improperly handling the asynchronous nature of AsyncStorage operations and attempting to access the result before the promise resolves.
